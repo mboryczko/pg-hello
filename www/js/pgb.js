@@ -16,7 +16,7 @@ function deviceInfo() {
 
 	info =  'Hi, I am your smartphone :-)' + '\n' +
 			'=====' + '\n' +
-			'Device Name    : '     + device.name     + '\n' + 
+			'Device Namwgwgwe    : '     + device.name     + '\n' + 
 			'Device Cordova : '  + device.cordova + '\n' + 
 			'Device Platform: ' + device.platform + '\n' + 
 			'Device UUID    : '     + device.uuid     + '\n' + 
