@@ -6,6 +6,12 @@ function onDeviceReady() {
 	navigator.notification.beep(1);
 }
 
+function youPersonalData() {
+	info =  'My name is Michał";
+
+	navigator.notification.alert(info);
+}
+
 function deviceInfo() {
 
 	info =  'Hi, I am your smartphone :-)' + '\n' +
