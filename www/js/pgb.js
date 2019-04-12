@@ -7,7 +7,7 @@ function onDeviceReady() {
 }
 
 function youPersonalData() {
-	info =  'My name is Michał";
+	info =  'My name is Michał';
 
 	navigator.notification.alert(info);
 }
